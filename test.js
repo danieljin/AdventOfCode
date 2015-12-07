@@ -25,3 +25,5 @@ console.log(getAnswer3(string3) == 2081);
 console.log(getAnswer3b(string3b) == 2341);
 console.log(getAnswer4(string4) == 254575);
 console.log(getAnswer4b(string4b) == 1038736);
+console.log(getAnswer5(string5) == 238);
+console.log(getAnswer5b(string5b) == 69);
